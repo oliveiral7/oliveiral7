@@ -9,12 +9,6 @@
 <img width="520em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiral7&layout=compact&theme=github_dark" alt="oliveiral7's most languages"/>
 </p>
 
-<div style="display: inline_block" & align="center"><br>
-  
- ![trophy](https://github-profile-trophy.vercel.app/?username=oliveiral7&theme=onestar&row=2&column=3)
-
-</div>
-
 <div style="display: inline_block"><br>
  <h3 align="center">Languages and Tools:</h3> 
  <div align="center">
@@ -35,9 +29,11 @@
   <img align="center" alt="Luan-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 </div>
 
-##  
   
-<div align="center">
+  
+<div style="display: inline_block"><br>
+ <h3 align="center">Social Networks:</h3> 
+ <div align="center">
   <a href = "mailto:dev.luanrafael@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/oliveiracwb_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/luan-oliveira-45831b236/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
