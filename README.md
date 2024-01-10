@@ -1,5 +1,3 @@
-![Banner](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
-
 <h1 align="center"> :space_invader: Hi I'm Luan Oliveira</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=I'm+Brazilian,+I+live+in+Curitiba-PR...;I'm+a+programming+and+technology+student...;Be+Welcome!+:%29)](https://git.io/typing-svg)
@@ -38,12 +36,4 @@
   <a href="https://www.instagram.com/oliveiracwb_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/luan-oliveira-45831b236/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/channel/UCLeaWodF5tInbaGHf57FfVw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
-</div> 
-
-<div style="display: inline_block" & align="center"><br>  
-  
-  ![Snake animation](https://github.com/oliveiral7/oliveiral7/blob/output/github-contribution-grid-snake.svg)
-
-</div> 
-  
-![Banner](https://64.media.tumblr.com/0870408ef69639327475f93f665ac490/92c7bc6db974c4d5-ab/s2048x3072/ee299068d73c2a392fc857eef0b8dd7bb830351e.gif)
+</div>
