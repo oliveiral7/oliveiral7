@@ -1,9 +1,9 @@
-<h1 align="center"> :space_invader: Hi I'm Luan Oliveira</h1>
+<h1 align="center"> :space_invader: Olá, eu sou o Luan Oliveira</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=I'm+Brazilian,+I+live+in+Curitiba-PR...;I'm+a+programming+and+technology+student...;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Sou+estudante+de+programação+e+tecnologia...;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
 
 <p align="center">
-<img width="520em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiral7&layout=compact&theme=github_dark" alt="oliveiral7's most languages"/>
+ <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiral7&layout=compact&theme=github_dark" alt="oliveiral7's most languages"/>
 </p>
 
 <div style="display: inline_block"><br>
