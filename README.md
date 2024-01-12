@@ -26,7 +26,7 @@
 </div>
 
 <div style="display: inline_block"><br>
- <h3 align="center">💻 Redes Sociais:</h3> 
+ <h3 align="center">💬 Redes Sociais:</h3> 
  <div align="center">
   <a href="mailto:dev.luanrafael@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="oliveiracwb_" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
