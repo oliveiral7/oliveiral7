@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1500&lines=Sou+estudante+de+programação+e+tecnologia...;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
 
 <p align="center">
- <img width="528em" src="https://github-readme-stats.vercel.app/api?username=oliveiral7&show_icons=true&theme=github_dark" alt="oliveiral7's stats"/>
- <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiral7&layout=compact&theme=github_dark" alt="oliveiral7's most languages"/>
+ <img width="520em" src="https://github-readme-stats.vercel.app/api?username=oliveiral7&show_icons=true&theme=github_dark" alt="oliveiral7's stats"/>
+ <img width="520em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiral7&layout=compact&theme=github_dark" alt="oliveiral7's most languages"/>
 </p>
 
 ##
