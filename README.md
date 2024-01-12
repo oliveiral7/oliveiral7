@@ -1,13 +1,16 @@
-<h1 align="center"> :space_invader: Olá, eu sou o Luan Oliveira</h1>
+<h2 align="center"> :space_invader: Olá, eu sou o Luan Oliveira</h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Sou+estudante+de+programação+e+tecnologia...;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1500&lines=Sou+estudante+de+programação+e+tecnologia...;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
 
 <p align="center">
- <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiral7&layout=compact&theme=github_dark" alt="oliveiral7's most languages"/>
+ <img width="528em" src="https://github-readme-stats.vercel.app/api?username=oliveiral7&show_icons=true&theme=github_dark" alt="oliveiral7's stats"/>
+ <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiral7&layout=compact&theme=github_dark" alt="oliveiral7's most languages"/>
 </p>
 
+##
+
 <div style="display: inline_block"><br>
- <h3 align="center">Languages and Tools:</h3> 
+ <h3 align="center">👨🏻‍💻 Conhecimento em: </h3> 
  <div align="center">
   <img align="center" alt="Luan-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Luan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -23,12 +26,11 @@
   <img align="center" alt="Luan-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 </div>
 
-  
-  
 <div style="display: inline_block"><br>
- <h3 align="center">Social Networks:</h3> 
+ <h3 align="center">💻 Redes Sociais:</h3> 
  <div align="center">
-  <a href = "mailto:dev.luanrafael@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:dev.luanrafael@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="oliveiracwb_" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/oliveiracwb_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/luan-oliveira-45831b236/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
