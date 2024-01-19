@@ -1,15 +1,15 @@
-# Olá, ser humano! 👋🏽
+# Olá, mundo! 👋🏻
 
-Sou Luan Oliveira, um estudante de programação e tecnologia. Tenho conhecimento em Front-End e também em Back-End.
+Sou Luan Oliveira, um estudante de programação e tecnologia. Tenho conhecimento em Front-End e Back-End.
 
-- 💻 No Front-End, uso principalmente Typescript e o framework Angular.
+- 💻 No Front-End, uso principalmente Typescript junto com o framework Angular.
 - ⚙️ No Back-End, uso bastante o Csharp para desenvolvimentos.
 
 ##
 
 <h3>Sobre mim</h3>
 
-- 🧠 Estou constantemente aprendendo e explorando novas tecnologias para me manter atualizado no mundo da programação.
+- 🧠 Estou constantemente explorando novas tecnologias para me manter atualizado no mundo da programação.
 - 🎮 Nas horas vagas gosto muito de explorar o mundo dos games.
 
 ##
