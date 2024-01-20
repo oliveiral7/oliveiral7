@@ -2,7 +2,7 @@
 
 Sou Luan Oliveira, um estudante de programação e tecnologia. Tenho conhecimento em Front-End e Back-End.
 
-- 💻 No Front-End, uso principalmente Typescript junto com o framework Angular.
+- 💻 No Front-End, uso bastante Typescript junto com o framework Angular.
 - ⚙️ No Back-End, uso bastante o Csharp para desenvolvimentos.
 
 ##
