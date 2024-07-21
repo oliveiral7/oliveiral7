@@ -39,6 +39,7 @@ Sou Luan Oliveira, um estudante de programação e tecnologia. Tenho conheciment
   <a href="https://www.instagram.com/oliveiracwb_/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="30" alt="instagram logo" target="_blank"></a>
   <a href="https://www.twitch.tv/luanzeraaa__" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="40" height="30" alt="twitch logo" target="_blank"></a>
   <a href="https://stackoverflow.com/users/26341086/luan-oliveira" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="40" height="30" alt="stackoverflow logo" target="_blank"></a>
+  <a href="mailto:dev.luanrafael@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="30" alt="gmail logo" target="_blank"></a>
   <a href="https://www.youtube.com/@luanrafael7887" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="40" height="30" alt="youtube logo" target="_blank"></a>
 </div>
 
@@ -46,6 +47,6 @@ Sou Luan Oliveira, um estudante de programação e tecnologia. Tenho conheciment
 
 <div align="left">
   <h3>🌐 Linguagens Mais Utilizadas:</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=oliveiral7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oliveiral7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
+  <img height=160 src="https://my-stats-43gk.vercel.app/api?username=oliveiral7&show_icons=true&theme=github_dark&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=110" />
+  <img height=160 src="https://my-stats-43gk.vercel.app/api/top-langs/?username=oliveiral7&hide=html,scss,css&langs_count=8&layout=compact&theme=github_dark&card_width=110" />
 </div>
