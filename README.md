@@ -2,8 +2,7 @@
 
 Sou Luan Oliveira, um estudante de programação e tecnologia. Tenho conhecimento em Front-End e Back-End.
 
-- 💻 No Front-End, uso bastante Typescript junto com o framework Angular.
-- ⚙️ No Back-End, uso bastante o Csharp para desenvolvimentos.
+- 💻 Atualmente estou estudando a linguagem Python. <img alt="Python" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
 
 ##
 
